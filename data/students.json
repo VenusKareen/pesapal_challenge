@@ -1,0 +1,9 @@
+{
+    "columns": [
+        "id",
+        "name",
+        "course"
+    ],
+    "rows": [],
+    "pk_index": {}
+}

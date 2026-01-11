@@ -1,0 +1,17 @@
+{
+    "columns": [
+        "id",
+        "name",
+        "email"
+    ],
+    "rows": [
+        [
+            "1",
+            "User One",
+            "test@test.com"
+        ]
+    ],
+    "pk_index": {
+        "1": 0
+    }
+}
